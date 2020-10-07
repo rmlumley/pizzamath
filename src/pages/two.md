@@ -1,6 +1,7 @@
 ---
 title: "2 People"
 description: "You get half a pizza and you get a half a pizza..."
+date: 2020-10-02
 ---
 <h2>How much pizza to order?</h2>
 <ul>

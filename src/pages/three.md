@@ -1,6 +1,7 @@
 ---
 title: "3 People"
 description: "Three little birds pitch by my doorstep..."
+date: 2020-10-03
 ---
 <h2>How much pizza to order?</h2>
 <ul>
