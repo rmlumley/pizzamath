@@ -1,5 +1,5 @@
 ---
-title: "Three People"
+title: "3 People"
 description: "Three little birds pitch by my doorstep..."
 ---
 <h2>How much pizza to order?</h2>

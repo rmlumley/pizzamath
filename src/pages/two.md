@@ -1,5 +1,5 @@
 ---
-title: "Two People"
+title: "2 People"
 description: "You get half a pizza and you get a half a pizza..."
 ---
 <h2>How much pizza to order?</h2>

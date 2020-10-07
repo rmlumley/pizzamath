@@ -1,5 +1,5 @@
 ---
-title: "One Person"
+title: "1 Person"
 description: "One is the loneliest number..."
 ---
 <h2>How much pizza to order?</h2>
